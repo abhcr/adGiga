@@ -1,0 +1,5 @@
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\bin\Release\Objects.dll
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\bin\Release\Objects.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Release\Objects.dll
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Release\Objects.pdb

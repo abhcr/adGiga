@@ -1,0 +1,10 @@
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\bin\Debug\DataObjects.dll
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\bin\Debug\DataObjects.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Debug\DataObjects.dll
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Debug\DataObjects.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\Objects\obj\Release\DataObjects.pdb

@@ -1,0 +1,10 @@
+C:\Users\Abhijith\Documents\dailyexpense\Objects\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\dailyexpense\Objects\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Objects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\dailyexpense\Objects\obj\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\dailyexpense\Objects\obj\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Objects\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Objects\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Objects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\adGiga Projects\Objects\obj\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Objects\obj\Release\DataObjects.pdb

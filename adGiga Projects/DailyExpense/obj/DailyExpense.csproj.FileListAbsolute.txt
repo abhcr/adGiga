@@ -1,0 +1,9 @@
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\bin\Debug\DailyExpense.exe
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\bin\Debug\DailyExpense.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Main.resources
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Properties.Resources.resources
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.csproj.GenerateResource.Cache
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.exe
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2005\Projects\DailyExpense\DailyExpense\obj\Debug\DailyExpense.Estimate.resources

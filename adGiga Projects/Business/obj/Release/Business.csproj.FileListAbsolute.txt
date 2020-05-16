@@ -1,0 +1,20 @@
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\Business.dll.config
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\Business.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\Business.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\ObjectCache.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\ObjectCache.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Business\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\dailyexpense\Business\obj\Release\Business.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\obj\Release\Business.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\Business.dll.config
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\Business.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\Business.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\ObjectCache.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\ObjectCache.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\adGiga Projects\Business\obj\Release\Business.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\obj\Release\Business.pdb

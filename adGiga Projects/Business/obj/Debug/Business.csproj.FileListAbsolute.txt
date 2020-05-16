@@ -1,0 +1,42 @@
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\Business.dll.config
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\Business.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\Business.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\DataObjects.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\ObjectCache.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\ObjectCache.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Business\bin\Debug\DataObjects.pdb
+C:\Users\Abhijith\Documents\dailyexpense\Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\dailyexpense\Business\obj\Debug\Business.dll
+C:\Users\Abhijith\Documents\dailyexpense\Business\obj\Debug\Business.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\Business.dll.config
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\Business.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\Business.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\DataObjects.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\ObjectCache.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\ObjectCache.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\bin\Debug\DataObjects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\adGiga Projects\Business\obj\Debug\Business.dll
+C:\Users\Abhijith\Documents\adGiga Projects\Business\obj\Debug\Business.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\Business.dll.config
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\Business.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\Business.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\DataObjects.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\ObjectCache.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\ObjectCache.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\bin\Debug\DataObjects.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\obj\Debug\Business.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\Business\obj\Debug\Business.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\Business.dll.config
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\Business.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\Business.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\DataObjects.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\ObjectCache.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\ObjectCache.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\ObjectCache.dll.config
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\bin\Debug\DataObjects.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\obj\Debug\Business.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\Business\obj\Debug\Business.pdb

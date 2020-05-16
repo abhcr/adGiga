@@ -1,0 +1,77 @@
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\adGiga.exe.config
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\adGiga.exe
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\adGiga.pdb
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\Business.dll
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\LicenseBox.dll
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\LicenseControls.dll
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\ObjectCache.dll
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\LicenseControls.pdb
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\LicenseBox.pdb
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\Business.pdb
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\bin\Release\ObjectCache.pdb
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.AboutBox1.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.CommonEditor.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.CustomerEditor.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Debtors.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.ItemEditor.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Password.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.PurgeData.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\SoftwareLocker.RegistrationForm.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Welcome.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.ErrorForm.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Expenses.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Items.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Main.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.EstimateForm.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.AddNewCustomer.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.Properties.Resources.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\ShopKeeper.SalesHistory.resources
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\adGiga.exe
+C:\Users\Abhijith\Documents\dailyexpense\DailyExpense\obj\Release\adGiga.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\adGiga Projects.exe
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\adGiga Projects.exe.config
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\adGiga Projects.exe.manifest
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\adGiga Projects.application
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\Business.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\DataObjects.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\LicenseBox.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\LicenseControls.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\ObjectCache.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\LicenseControls.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\LicenseBox.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\Business.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\DataObjects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\ObjectCache.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.AboutBox1.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.AddNewProject.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.CommonEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.CustomerEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Debtors.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.ItemEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Password.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.AssemblyEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.PurgeData.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\SoftwareLocker.RegistrationForm.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Welcome.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.ErrorForm.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Expenses.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Items.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Main.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.EstimateForm.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.AddNewCustomer.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.Properties.Resources.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\ShopKeeper.SalesHistory.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\adGiga Projects.TrustInfo.xml
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\adGiga Projects.exe.manifest
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\adGiga Projects.application
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\adGiga Projects.exe
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Release\adGiga Projects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Release\adGiga Projects.pdb

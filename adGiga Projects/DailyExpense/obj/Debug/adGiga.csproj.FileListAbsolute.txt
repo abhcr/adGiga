@@ -1,0 +1,119 @@
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe.config
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\Business.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\DataObjects.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\LicenseBox.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\LicenseControls.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.dll
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\LicenseControls.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\LicenseBox.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\Business.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\DataObjects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AboutBox1.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.CommonEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.CustomerEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Debtors.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.ItemEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Password.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AssemblyEditor.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.PurgeData.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\SoftwareLocker.RegistrationForm.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Welcome.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.ErrorForm.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Expenses.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Items.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Main.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.EstimateForm.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AddNewCustomer.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Properties.Resources.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.SalesHistory.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.exe
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.pdb
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AddNewProject.resources
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe.manifest
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.application
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.TrustInfo.xml
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.exe.manifest
+C:\Users\Abhijith\Documents\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.application
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga.csprojResolveAssemblyReference.cache
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AboutBox1.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AddNewProject.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.CommonEditor.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.CustomerEditor.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Debtors.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.ItemEditor.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Password.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AssemblyEditor.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.PurgeData.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\SoftwareLocker.RegistrationForm.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Welcome.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.ErrorForm.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Expenses.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Items.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Main.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.EstimateForm.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AddNewCustomer.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Properties.Resources.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.SalesHistory.resources
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga.csproj.GenerateResource.Cache
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe.config
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe.manifest
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.application
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\Business.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\DataObjects.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.dll
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\Business.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\DataObjects.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.pdb
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.TrustInfo.xml
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.exe.manifest
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.application
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.exe
+C:\Users\Abhijith\Dropbox\Unimation\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe.config
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe.manifest
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.application
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.exe
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\adGiga Projects.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\Business.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\DataObjects.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.dll
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\Business.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\Business.dll.config
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\DataObjects.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.pdb
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\bin\Debug\ObjectCache.dll.config
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga.csprojAssemblyReference.cache
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AboutBox1.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AddNewProject.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.CommonEditor.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.CustomerEditor.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Debtors.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.ItemEditor.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Password.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AssemblyEditor.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.PurgeData.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\SoftwareLocker.RegistrationForm.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Welcome.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.ErrorForm.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Expenses.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Items.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Main.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.EstimateForm.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.AddNewCustomer.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.Properties.Resources.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\ShopKeeper.SalesHistory.resources
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga.csproj.GenerateResource.cache
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.TrustInfo.xml
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.exe.manifest
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.application
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga.csproj.CopyComplete
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.exe
+C:\Users\abhij\OneDrive\Software\adGiga Projects\DailyExpense\obj\Debug\adGiga Projects.pdb

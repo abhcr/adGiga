@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShopKeeper.AddNewCustomer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAADACAAABAAAACAAQACACIEAAAgAAAAAAAAAQA=</HashCode>
+      <FileName>AddNewCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.ColorableDatePicker" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColorableDatePicker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.CommonEditor" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIKQAAAAAAACAAAACAgAAEAAAAIAQAAAQAAA=</HashCode>
+      <FileName>CommonEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.CustomerEditor" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABcECAAUACAAMBYAIACAAAAGIUBMAEBAhSAWQAAAwAI=</HashCode>
+      <FileName>CustomerEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Debtors" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBEAAAAAACAAAAAgQACAAAACCAAAAAAAgAAAAAAACAA=</HashCode>
+      <FileName>Debtors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.ErrorForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAASAAgACAAAoAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ErrorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.EstimateForm">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wALjgPJjB2GNs5REISj1EYKj0SIUVFUrNKGJNDpCwgw=</HashCode>
+      <FileName>EstimateForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Expenses" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAACAgCAAAACAAgIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.ItemEditor" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQEJCIAMTiAIACAAEACIcJEIABAhSIeAAAAyAQ=</HashCode>
+      <FileName>ItemEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Items" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAEAAACAgAAAAAASAAAACAAAABADAAAAAAAAgAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Main" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>bN+BYmAHBKAJArtLkGqhJWiuFZMgQgkHBCqQSxVqKoQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.NativeMethods" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAEAAAAAAAAAAAAAAAgAAAAAgAAAAAAA=</HashCode>
+      <FileName>NativeMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Password" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABRAAAACACAAABAAAACAAQAiAAAAAhFAAAAAAAAAAQA=</HashCode>
+      <FileName>Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Program" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.PurgeData" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAACAQACAAABQAAACAAQADAABABAQBAAAAAAAAAAE=</HashCode>
+      <FileName>PurgeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.SalesHistory" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQBAUCCAiAlQFAAAAaAAAACRAAAgADAEAAQAAAAwSE=</HashCode>
+      <FileName>SalesHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Welcome" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAYAAAACAAAxAAAACAQQACAQAAAAQAEEAIAAAAASA=</HashCode>
+      <FileName>Welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftwareLocker.Encryption" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAQACAAAAQAAAAAAAAAAAAAAAAAAAIAABAAAAAA=</HashCode>
+      <FileName>Encryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftwareLocker.FileReadWrite" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAACAAAIAA=</HashCode>
+      <FileName>FileReadWrite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftwareLocker.RegistrationForm" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAACBICAAAABECACAAIACAACQGEgAAAAAACAAAIA=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftwareLocker.SystemInfo" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAEAAAAAAAAAAAAAIAAAQgAAwCAAAACQAAEAAAA=</HashCode>
+      <FileName>SystemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftwareLocker.TrialMaker" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACwiAFgQABAAEAAAAECAAFBYwAAoCAEAACQBgIAQAA=</HashCode>
+      <FileName>TrialMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopKeeper.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACEAAAAAAAIAAAAAABAAACAAAAAAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
